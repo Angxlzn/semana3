@@ -13,6 +13,7 @@ namespace Apica1
             Console.Write("Bienvenidos al curso de c#");
             Console.Write("Bienvenidos al curso de c#");
             Console.Write("Bienvenidos al curso de c#");
+            Console.Write("Bienvenidos al curso de c#");
             Console.ReadKey();
         }
     }
